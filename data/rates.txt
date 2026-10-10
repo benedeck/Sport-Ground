@@ -1,0 +1,4 @@
+basketball=300
+volleyball=200
+badminton=200
+billiard=150
